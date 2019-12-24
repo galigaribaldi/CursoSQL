@@ -2,13 +2,13 @@
 
 Este repositorio es creado como material de Apoyo para el curso SQL 1 y SQL 2, así mismo este es una recopilación de diferentes materiales obtenidos a lo largo del tiempo, por lo que los materiales presentados en el mismo son una recopilación de los mismos. 
 
-![](C:\Users\galig\Documents\CursoSQL\que-es-sql.png)
+<img src="https://s3-us-west-2.amazonaws.com/devcodepro/media/blog/que-es-sql.png" alt="SQ" style="zoom:50%;" />
 
 Se usará El gestor de Bases de Datos **Oracle 18c** para este curso, así como su instalación en los diferentes tipos de sistemas operativos basados en Linux (Ubuntu 16 en adelante, Fedora y Oracle Linux 7)
 
-![](C:\Users\galig\Documents\CursoSQL\Oracle Database 18c.png)
+<img src="https://4.bp.blogspot.com/-gcOv1gkY2ZY/WqCoRGbOaZI/AAAAAAAAuMQ/Kd80yaS7UhY27Kna8WR9BJe4wyYMM10uQCPcBGAYYCw/s1600/Oracle%2BDatabase%2B18c.png" alt="18c" style="zoom:50%;" />
 
-![](C:\Users\galig\Documents\CursoSQL\Distribuciones-Linux-2015.png)
+<img src="https://www.redeszone.net/app/uploads-redeszone.net/2015/12/Distribuciones-Linux-2015.png" alt="disros" style="zoom:50%;" />
 
 ## Instructores
 
@@ -16,7 +16,7 @@ Se usará El gestor de Bases de Datos **Oracle 18c** para este curso, así como 
 
 ​				**Correo Electrónico: **galigaribaldi0@gmail.com
 
-**Adjunt[@s]:** Emanuel Flores
+**Adjunt[@s]:**  Emanuel Flores
 
 ​			**Correo Electrónico : **emuf.proteco@gmail.com
 
@@ -47,6 +47,10 @@ En la siguiente liga de drive se encuentra una maquina virtual clonada de la dis
 Pequeño Curso introductorio con bases de datos relacionales usando lenguaje de Programación Python y SQLite[Curso de Bases SQLite con Python](https://github.com/galigaribaldi/Bases-Python)
 
 ## Evaluación del Curso
+
+<img src="https://pbs.twimg.com/profile_images/1098678443930238978/6mPvIosC_400x400.png" alt="Proteco" style="zoom:150%;" />
+
+
 
 Proyecto : 									 40%
 
