@@ -12,25 +12,25 @@ Se usará El gestor de Bases de Datos **Oracle 18c** para este curso, así como 
 
 ## Instructores
 
-**Titular: ** Cabrera Garibaldi Hernán Galileo 
+**Titular:** Cabrera Garibaldi Hernán Galileo 
 
-​				**Correo Electrónico: **galigaribaldi0@gmail.com
+​				**Correo Electrónico: ** galigaribaldi0@gmail.com
 
 **Adjunt[@s]:**  Emanuel Flores
 
-​			**Correo Electrónico : **emuf.proteco@gmail.com
+​			**Correo Electrónico:** emuf.proteco@gmail.com
 
 ​						Josué Policarpo
 
-​			**Correo Eletrónico : ** animatosi@gmail.com
+​			**Correo Electrónico:** animatosi@gmail.com
 
 ​						Andrea García Ruíz
 
-​			**Correo Electrónico: **andiee.grr@gmail.com
+​			**Correo Electrónico:** andiee.grr@gmail.com
 
 **Auxiliar: ** Stephanie Escobar
 
-​			**Correo Electrónico: **
+​			**Correo Electrónico:**  stephanie.proteco@gmail.com
 
 ​	
 
