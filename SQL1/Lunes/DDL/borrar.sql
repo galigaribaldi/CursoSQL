@@ -1,0 +1,12 @@
+whenever sqlerror exit rollback;
+DROP TABLE estudiante;
+DROP TABLE estudiante2;
+DROP TABLE automovil;
+DROP TABLE usuario;
+DROP TABLE biblioteca;
+DROP TABLE computadora;
+DROP TABLE television;
+DROP TABLE puesto;
+DROP TABLE empleado;
+DROP TABLE empleado2 cascade;
+commit;
