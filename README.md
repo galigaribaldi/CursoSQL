@@ -46,6 +46,16 @@ En la siguiente liga de drive se encuentra una maquina virtual clonada de la dis
 
 Pequeño Curso introductorio con bases de datos relacionales usando lenguaje de Programación Python y SQLite[Curso de Bases SQLite con Python](https://github.com/galigaribaldi/Bases-Python)
 
+## Tareas
+
+Documento donde se describe la entrega de tareas:
+
+[Documento de Descripción](https://github.com/galigaribaldi/CursoSQL/blob/master/MaterialExtra/Descripcion_Tareas.pdf)
+
+Liga de donde se debe subir las tareas:
+
+[Liga de Carpeta en Drive](https://drive.google.com/open?id=16cTBOzuNmJy-GgajAOlS2tXXVMnltyMG)
+
 ## Evaluación del Curso
 
 <img src="https://pbs.twimg.com/profile_images/1098678443930238978/6mPvIosC_400x400.png" alt="Proteco" style="zoom:150%;" />
