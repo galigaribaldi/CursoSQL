@@ -26,10 +26,10 @@ grant create session, create table, create sequence to &usuario;
 connect &usuario/&password
 
 Prompt Creando objetos
-@s-02-ejercicios-tema9-ddl.sql
+@dql-02-ddl.sql
 
 Prompt Carga de datos
-@s-03-ejercicios-tema9-carga.sql
+@dql-03-carga.sql
 
 
 Prompt  Configuracion creada con exito.
