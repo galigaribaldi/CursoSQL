@@ -1,0 +1,1 @@
+create table direccion( direccion_id number(10,0) not null constraint direccion_pk primary key, calle varchar(100) not null ); create table cliente( cliente_id number(10,0) not null constraint cliente_pk primary key, nombre varchar(100) not null, direccion_id not null constraint direccion_id_fk references direccion(direccion_id) on delete cascade );
