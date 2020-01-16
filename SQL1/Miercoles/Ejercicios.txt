@@ -1,0 +1,104 @@
+E J E M P L O S
+-----------------------------------------------------
+CREATE TABLE Estudiante(
+NoCuenta NUMBER(9),
+Nombre VARCHAR(20),
+ApPaterno VARCHAR(20),
+Carrera VARCHAR(30),
+Edad Number(2),
+Semestre Number(2),
+Poblacion NUMBER(2)
+);
+
+INSERT INTO Estudiante VALUES (
+
+);
+
+----------------------------------------------------
+
+SELECT COUNT(column_name)
+FROM table_name
+WHERE condition;
+
+---------------------------------------------------- 
+
+SELECT COUNT(*)
+FROM Estudiante;
+----------------------------------------------------
+
+SELECT * FROM Estudiante;
+
+
+SELECT COUNT(*)
+FROM Estudiante
+WHERE Semestre < 5; 
+
+----------------------------------------------------
+
+SELECT * FROM Estudiante;
+
+
+SELECT COUNT(Edad)
+FROM Estudiantes; 
+
+----------------------------------------------------
+
+SELECT Poblacion, Carrera
+FROM Estudiante
+ORDER BY Semestre
+ASC;
+
+SELECT Poblacion, Carrera
+FROM Estudiante
+ORDER BY Semestre
+DESC;
+
+
+
+---------------------------------------------------
+
+SELECT * FROM Estudiante
+ORDER BY Nombre, Edad; <-- Le va a dar prioridad a la primera columna
+
+-----------------------------------
+
+SELECT * FROM Estudiante
+ORDER BY Carrera ASC, Semestre DESC; 
+
+---------------------------------------------------
+
+Ejercicios: GROUP BY
+
+"buscar el número de estudiantes en cada carrera"
+
+SELECT COUNT(NoCuenta), Carrera
+FROM Estudiante
+GROUP BY Carrera;
+
+"enumera el número de estudiantes en cada carrera, ordenados de mayor a menor"
+
+SELECT COUNT(NoCuenta), Carrera
+FROM Estudiante
+GROUP BY Carrera
+ORDER BY COUNT(Poblacion) DESC;
+
+----------------------------------------------------
+
+Ejercicios: HAVING
+
+"enumera el número de población en cada carrera. Solo incluya carreras con más de 5 estudiantes"
+
+SELECT COUNT(NoCuenta), Carrera
+FROM Estudiante
+GROUP BY Carrera
+HAVING COUNT(NoCuenta) > 5;
+
+----------------------------------------------------
+
+"enumera el número de estudiantes con el semeste actual correspondiente, ordenados de mayor a menor (solo incluye los que se encuentran arriba de 5to semestre)"
+
+SELECT COUNT(Nocuenta), Semestre
+FROM Estudiante
+GROUP BY Semestre
+HAVING COUNT(Nocuenta) > 5
+ORDER BY COUNT(Nocuenta) DESC;

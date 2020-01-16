@@ -1,0 +1,23 @@
+1. ¿Cuántas inserciones se realizaron?
+
+2. ¿De qué es la base de datos?
+
+2. ¿Cuántas columnas tiene la tabla?
+
+3. ¿Cuántas tablas utilizan el tipo de dato NUMBER?
+
+4. En la columna de idioma ¿Cuántos idiomas se encuentran?
+
+5. ¿Cuántas canciones duran menos de 3 minutos?
+
+6. ¿Cuántas canciones duran igual o menos de 2 minutos?
+
+7. ¿Cuántas canciones vienen en un idioma que no es español?
+
+8. ¿Cuál es la información que aparece con el identificador número 28?
+
+9. Muéstrame los datos ordenados de menor a mayor según su duración
+
+10. ¿Cuáles son las canciones qué más duran?
+
+11. ¿Cuáles canciones son las que duran menos?
