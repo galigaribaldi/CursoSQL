@@ -56,6 +56,12 @@ Liga de donde se debe subir las tareas:
 
 [Liga de Carpeta en Drive](https://drive.google.com/open?id=16cTBOzuNmJy-GgajAOlS2tXXVMnltyMG)
 
+## Proyecto
+
+Se puede realizar 1 de los 2 tipos de proyecto, sin embargo la Versión 1 se pueden obtener 140 puntos, mientras que en el segundo solo se puede obtener 120. **Se califica sobre 100**
+
+
+
 ## Evaluación del Curso
 
 <img src="https://pbs.twimg.com/profile_images/1098678443930238978/6mPvIosC_400x400.png" alt="Proteco" style="zoom:150%;" />
