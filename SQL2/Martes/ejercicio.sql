@@ -34,6 +34,7 @@ BEGIN
     ELSE
         -- Si se excedio, se lanza un error
         RAISE_APPLICATION_ERROR(-20010,'No es posible inscribir al alumno ya que se ha alcanzado el cupo maximo');
+        -- Esta línea ya no es alcanzada por lo que se puede omitir
         dbms_output.put_line('No es posible inscribir al alumno ya que se ha alcanzado el cupo maximo');
     END IF;
 END;
