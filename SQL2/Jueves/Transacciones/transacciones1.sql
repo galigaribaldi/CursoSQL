@@ -10,7 +10,7 @@ INSERT INTO trabajo(trabajo_id, titulo, minSal, maxSal) VALUES('PRES', 'VICE PRE
 INSERT INTO trabajo(trabajo_id, titulo, minSal, maxSal) VALUES('PRES', 'ASISTENTE', 300, 6000)
 INSERT INTO trabajo(trabajo_id, titulo, minSal, maxSal) VALUES('PRES', 'ADMIN FINANC', 82000, 16000)
 
---confirmar los datos y mostrarlos
+---confirmar los datos y mostrarlos
 COMMIT;
 select * from trabajo;
 
