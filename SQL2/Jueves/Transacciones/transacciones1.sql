@@ -27,6 +27,7 @@ SELECT * FROM trabajo;
 ---  Cree una marca (SAVEPOINT) con el nombre de UPDATE_1
 SAVEPOINT update_1;
 
+
 --Ahora inserte un nuevo valor en la tabla TRABAJO y muestre los datos
 INSERT INTO trabajo VALUES('ABD', 'Administrador de Bases de Datos', 20000, 50000);
 SELECT * FROM trabajo;
