@@ -60,7 +60,9 @@ Liga de donde se debe subir las tareas:
 
 Se puede realizar 1 de los 2 tipos de proyecto, sin embargo la Versión 1 se pueden obtener 140 puntos, mientras que en el segundo solo se puede obtener 120. **Se califica sobre 100**
 
+## Calificaciones
 
+https://docs.google.com/spreadsheets/d/18txx5ZmFlnMt0q2yYeshEg0B7Y_yrFVV703M4gw2CL0/edit?usp=sharing
 
 ## Evaluación del Curso
 
