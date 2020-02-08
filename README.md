@@ -62,7 +62,9 @@ Se puede realizar 1 de los 2 tipos de proyecto, sin embargo la Versión 1 se pue
 
 ## Calificaciones
 
-https://docs.google.com/spreadsheets/d/18txx5ZmFlnMt0q2yYeshEg0B7Y_yrFVV703M4gw2CL0/edit?usp=sharing
+https://drive.google.com/file/d/1XamUdIvcp0unxnWQc_0ixyGXpkuwxTiv/view?usp=sharing
+
+
 
 ## Evaluación del Curso
 
